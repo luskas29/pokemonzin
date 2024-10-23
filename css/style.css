@@ -1,0 +1,22 @@
+.sei_la{
+    color: red;
+}
+h1 {text-align: center; color: blue;
+background-color: gainsboro;
+ ;
+}
+header li {
+    list-style: none;
+}
+    section{ background-color: cyan;}
+    article{
+        color: crimson;
+    }
+    p{
+        background-color: rgb(137, 91, 141);
+        color: rgb(174, 255, 0);
+    }
+    li{
+        list-style: none;
+    }
+    
